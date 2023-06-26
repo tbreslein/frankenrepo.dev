@@ -1,4 +1,8 @@
-# Astro Starter Kit: Basics
+# Frankrepo.dev
+
+Website for the frankenrepo project:
+
+A build tool for multilanguage monorepos.
 
 ## 🚀 Project Structure
 
